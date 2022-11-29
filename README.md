@@ -28,6 +28,6 @@
   <a href="mailto:giovana_satiko@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/giovana-yanagiya-911309222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/giihsatiko/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/giihsatiko/giihsatiko/blob/output/github-contribution-grid-snake.svg)
  
 </div>
