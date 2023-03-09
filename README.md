@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente faço estágio full stack
 - 🌱 Estudando React Native
-- 😄 Pronouns: Ela/Dela
 
 <div align="center">
   <a href="https://github.com/giihsatiko">
