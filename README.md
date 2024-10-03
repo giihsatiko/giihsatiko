@@ -1,7 +1,7 @@
 ### Oii! Eu sou a Giovana Satiko
 
-- 🔭 Atualmente faço estágio full stack
-- 🌱 Estudando React Native
+- 🔭 Atualmente sou frontend na área de mobile
+- 🌱 Estudando Vue
 
 <div align="center">
   <a href="https://github.com/giihsatiko">
