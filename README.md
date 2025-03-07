@@ -2,6 +2,7 @@
 
 - 🔭 Atualmente sou frontend na área de mobile
 - 🌱 Estudando Vue
+- 🌱 Estudando Laravel
 
 <div align="center">
   <a href="https://github.com/giihsatiko">
